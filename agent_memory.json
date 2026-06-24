@@ -1,0 +1,31 @@
+{
+  "actions": [],
+  "insides": [],
+  "context": {
+    "query": "Покажи распределение числовых данных",
+    "start_time": "2026-06-24T20:12:52.936637",
+    "df_shape": "(20252, 17)",
+    "numeric_columns": [
+      "Product ID",
+      "Sales Volume",
+      "price"
+    ],
+    "categorical_columns": [
+      "Product Position",
+      "Promotion",
+      "Product Category",
+      "Seasonal",
+      "brand",
+      "url",
+      "name",
+      "description",
+      "currency",
+      "terms",
+      "section",
+      "season",
+      "material",
+      "origin"
+    ]
+  },
+  "start_time": "2026-06-24T20:12:35.677807"
+}
